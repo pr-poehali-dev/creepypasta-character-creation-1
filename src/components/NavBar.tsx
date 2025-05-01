@@ -84,11 +84,9 @@ const NavBar = () => {
                     <ListItem href="/characters" title="Галерея персонажей" icon="Users">
                       Монстры и кошмары пользователей
                     </ListItem>
-
                     <ListItem href="/characters/create" title="Создать персонажа" icon="UserPlus">
-                      Создайте собственное чудовище для ваших историй
+                      Создайте собственное чудовище
                     </ListItem>
-
                   </ul>
                 </NavigationMenuContent>
               </NavigationMenuItem>
